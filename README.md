@@ -13,7 +13,7 @@ Notice:
 * The "@" indicates which key to tonicize. Supposing that you want to use the IV-V progression to tonicize the V, you write "(IV-V)@V".
 * Similarly, when you want to indicate a sustained bass note (e.g. V), the approach is similar to pop music: (Chord or Chord Progression) / V. Shimaoka harmoniology uses roman numerals to indicate not only chords but also pitches.
 
-The two notices above are describing differently than what Shimaoka did in his books, but **these changes helps almost anyone to use a computer to type the chord symbols**.
+The two notices above are describing differently than what Shimaoka did in his books, but **these changes help almost anyone to use a computer to type the chord symbols**.
 
 > 尚：
 > 
