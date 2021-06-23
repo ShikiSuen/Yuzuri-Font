@@ -8,16 +8,23 @@ The name of the font "Yuzuri" is a derivative feminine name from Yuzuru Shimaoka
 
 > このフォントの名前「ゆずり」は、島岡譲氏の下の名前「ゆずる」を女性化してからの名前です。
 
-後ほど詳しい使用説明を載りますが、しばらくこの画像を見て使ってみてください。小文字と大文字の機能はそれぞれなのでご注意ください。
+Notice:
 
-尚：
+* The "@" indicates which key to tonicize. Supposing that you want to use the IV-V progression to tonicize the V, you write "(IV-V)@V".
+* Similarly, when you want to indicate a sustained bass note (e.g. V), the approach is similar to pop music: (Chord or Chord Progression) / V. Shimaoka harmoniology uses roman numerals to indicate not only chords but also pitches.
 
-* 「＠」は「IVのV」のような副次固有和音を使うときに、副次調（トニック化の対象となる調）「V」を示すための記号である。「〔I - V - I のような和音進行〕＠ 副次調」も可です。
-* 「X度上の〇〇」のような保続低音を示すときに「和音記号／保続低音」「〔I - V - I のような和音進行〕／保続低音」のようにご入力ください。
+The two notices above are describing differently than what Shimaoka did in his books, but **these changes helps almost anyone to use a computer to type the chord symbols**.
 
-これは《総合和声：実技・分析・原理》《和声：理論と実習》《XXの仕組み、XXの仕組み、XXXXのために》の記号と少し違いますが、情報機器で誰も入力しやすければいいと思った故です。
+> 尚：
+> 
+> * 「＠」は「IVのV」のような副次固有和音を使うときに、副次調（トニック化の対象となる調）「V」を示すための記号である。「〔I - V - I のような和音進行〕＠ 副次調」も可です。
+> * 「X度上の〇〇」のような保続低音を示すときに「和音記号／保続低音」「〔I - V - I のような和音進行〕／保続低音」のようにご入力ください。
+> 
+> これは《総合和声：実技・分析・原理》《和声：理論と実習》《XXの仕組み、XXの仕組み、XXXXのために》の記号と少し違いますが、情報機器で誰も入力しやすければいいと思った故です。
 
-| 入力文字 	| 対応和声記号                                                                       	|
+小文字と大文字の機能はそれぞれなのでご注意ください。(Pay attention to lower and upper cases due to their different functions.)
+
+| 入力文字 Input Character 	| 対応和声記号 Corresponded chord symbol                                                          	|
 |----------	|------------------------------------------------------------------------------------	|
 | Q        	| I                                                                                  	|
 | W        	| II                                                                                 	|
@@ -26,18 +33,20 @@ The name of the font "Yuzuri" is a derivative feminine name from Yuzuru Shimaoka
 | T        	| V                                                                                  	|
 | Y        	| VI                                                                                 	|
 | U        	| VII                                                                                	|
-| F        	| 付加4                                                                              	|
-| S        	| 付加6                                                                              	|
-| f        	| 第？音の下変（ローマ数字の直後に置くこと）                                         	|
-| s        	| 第？音の上変（ローマ数字の直後に置くこと）（IVの場合、付加６上変）                 	|
-| m        	| 同主短調から借用した準固有和音                                                     	|
-| +        	| 同主長調から借用した準固有和音ですが、準固有和音よりプラス和音とはよく呼ばれるはず 	|
-| r        	| 根音省略形あるいは第５音省略形                                                     	|
-| p        	| ナポリのII度                                                                       	|
-| 1 2 3 4  	| 第？転回形                                                                         	|
-| 7 9      	| ７和音と９和音（転回形の直前に入力すること）                                       	|
-| @        	| 副次調指定記号                                                                     	|
-| /        	| 保続低音指定記号                                                                   	|
-| () [] {} 	| 括弧                                                                             	|
+| F        	| 付加4 / Add 4th                                                                	|
+| S        	| 付加6 / Add 6th                                                                   	|
+| f        	| 第5音の下変（ローマ数字の直後に置くこと） // ♭5 (typed right after the Roman Numeral)                  	|
+| s        	| 第5音の上変（ローマ数字の直後に置くこと）// ♯5 for Dominants, #6 for subdominants                	|
+| m        	| 同主短調から借用した準固有和音 // The diatonic chord of the same degree borrowed from syntonic minor.        	|
+| +        	| 同主長調から借用した準固有和音ですが、準固有和音よりプラス和音とはよく呼ばれるはず // The diatonic chord of the same degree borrowed from syntonic major. 	|
+| r        	| 根音省略形あるいは第５音省略形 // Rootless Dominant or 5thless Subdominant                                                    	|
+| p        	| ナポリのII度  // Neopolitan II                                                                     	|
+| 1 2 3 4  	| 第？転回形  // Which inversion                                                    	|
+| 7 9      	| ７和音と９和音（転回形の直前に入力すること）// 7th or 9th chords (typed right before the inversion number)      	|
+| @        	| 副次調指定記号 // Tonicization target indicator   	|
+| /        	| 保続低音指定記号 // Sustained bass note indicator       	|
+| () [] {} 	| 括弧   // Brackets             	|
 
+
+Note: the glyph "6" is considered useless at this moment. // 字図「6」は現時点で使う必要がありません。
 ![image](https://user-images.githubusercontent.com/3164826/123084770-1cc5d280-d454-11eb-8e2a-df031f5fd5b0.png)
