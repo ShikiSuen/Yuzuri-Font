@@ -38,6 +38,6 @@ The name of the font "Yuzuri" is a derivative feminine name from Yuzuru Shimaoka
 | 7 9      	| ７和音と９和音（転回形の直前に入力すること）                                       	|
 | @        	| 副次調指定記号                                                                     	|
 | /        	| 保続低音指定記号                                                                   	|
-| () [] {} 	| かっこ                                                                             	|
+| () [] {} 	| 括弧                                                                             	|
 
 ![image](https://user-images.githubusercontent.com/3164826/123084770-1cc5d280-d454-11eb-8e2a-df031f5fd5b0.png)
