@@ -4,7 +4,7 @@ A typeface which allows easy typography of Shimaoka Roman Numerals used among co
 
 > 「ゆずり」という島岡系芸大和声記号専用フォントです。
 
-The name of the font "Yuzuri" is a derivative feminine name from Yuzuru Shimaoka's first name. (Yuzuru sounds male, Yuzuri sounds female.)
+The name of the font "Yuzuri" (pronounces “Yuzuli” in English) is a derivative feminine name from Yuzuru Shimaoka's first name. (Yuzuru sounds male, Yuzuri sounds female.)
 
 > このフォントの名前「ゆずり」は、島岡譲氏の下の名前「ゆずる」を女性化してからの名前です。
 
