@@ -39,7 +39,7 @@ The two notices above are describing differently than what Shimaoka did in his b
 | s        	| 第5音の上変（ローマ数字の直後に置くこと）// ♯5 for Dominants, #6 for subdominants                	|
 | m        	| 同主短調から借用した準固有和音 // The diatonic chord of the same degree borrowed from syntonic minor.        	|
 | +        	| 同主長調から借用した準固有和音ですが、準固有和音よりプラス和音とはよく呼ばれるはず // The diatonic chord of the same degree borrowed from syntonic major. 	|
-| r        	| 根音省略形あるいは第５音省略形 // Rootless Dominant or 5thless Subdominant                                                    	|
+| r        	| 根音省略形あるいは第５音省略形（ローマ数字の直前に入力すること） // Rootless Dominant or 5thless Subdominant (typed right before the Roman Numeral)    	|
 | p        	| ナポリのII度  // Neopolitan II                                                                     	|
 | 1 2 3 4  	| 第？転回形  // Which inversion                                                    	|
 | 7 9      	| ７和音と９和音（転回形の直前に入力すること）// 7th or 9th chords (typed right before the inversion number)      	|
