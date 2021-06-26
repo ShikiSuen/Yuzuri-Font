@@ -26,6 +26,7 @@ The two notices above are describing differently than what Shimaoka did in his b
 
 | 入力文字 Input Character 	| 対応和声記号 Corresponded chord symbol                                                          	|
 |----------	|------------------------------------------------------------------------------------	|
+| O | 何れの音階・和声 // Wildcard symbol indicating current chord degree |
 | ZXCVBNM | 音階とその音を示す記号 // Indicating Scales and Tones
 | Q        	| I                                                                                  	|
 | W        	| II                                                                                 	|
@@ -42,10 +43,11 @@ The two notices above are describing differently than what Shimaoka did in his b
 | +        	| 同主長調から借用した準固有和音ですが、準固有和音よりプラス和音とはよく呼ばれるはず // The diatonic chord of the same degree borrowed from omnitonic major. 	|
 | r        	| 根音省略形あるいは第５音省略形（ローマ数字の直前に入力すること） // Rootless Dominant or 5thless Subdominant (typed right before the Roman Numeral)    	|
 | p        	| ナポリのII度  // Neopolitan II                                                                     	|
-| 1 2 3 4  	| 第？転回形  // Which inversion                                                    	|
-| 7 9      	| ７和音と９和音（転回形の直前に入力すること）// 7th or 9th chords (typed right before the inversion number)      	|
+| 1 2 3 4 \` | 第？転回形  // Which inversion                                                    	|
+| 7 9 ~ 	| ７和音と９和音（転回形の直前に入力すること）// 7th or 9th chords (typed right before the inversion number)      	|
 | @        	| 副次調指定記号 // Tonicization target indicator   	|
 | /        	| 保続低音指定記号 // Sustained bass note indicator       	|
 | () [] {} 	| 括弧   // Brackets             	|
+
 
 ![image](https://user-images.githubusercontent.com/3164826/123501502-fbddc700-d677-11eb-99b9-91de84965bf4.png)
