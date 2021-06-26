@@ -26,7 +26,7 @@ The two notices above are describing differently than what Shimaoka did in his b
 
 | 入力文字 Input Character 	| 対応和声記号 Corresponded chord symbol                                                          	|
 |----------	|------------------------------------------------------------------------------------	|
-| ZXCVBNM | 音階とその音を示す記号 (Indicating Scales and Tones) //
+| ZXCVBNM | 音階とその音を示す記号 // Indicating Scales and Tones
 | Q        	| I                                                                                  	|
 | W        	| II                                                                                 	|
 | E        	| III                                                                                	|
