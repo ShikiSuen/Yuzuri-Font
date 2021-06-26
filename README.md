@@ -26,7 +26,7 @@ The two notices above are describing differently than what Shimaoka did in his b
 
 | 入力文字 Input Character 	| 対応和声記号 Corresponded chord symbol                                                          	|
 |----------	|------------------------------------------------------------------------------------	|
-| ZXCVBN | 音階とその音を示す記号 (Indicating Scales and Tones) |
+| ZXCVBNm | 音階とその音を示す記号 (Indicating Scales and Tones) |
 | Q        	| I                                                                                  	|
 | W        	| II                                                                                 	|
 | E        	| III                                                                                	|
@@ -47,7 +47,4 @@ The two notices above are describing differently than what Shimaoka did in his b
 | @        	| 副次調指定記号 // Tonicization target indicator   	|
 | /        	| 保続低音指定記号 // Sustained bass note indicator       	|
 | () [] {} 	| 括弧   // Brackets             	|
-
-
-Note: the glyph "6" is considered useless at this moment. // 字図「6」は現時点で使う必要がありません。
-![image](https://user-images.githubusercontent.com/3164826/123084770-1cc5d280-d454-11eb-8e2a-df031f5fd5b0.png)
+![image](https://user-images.githubusercontent.com/3164826/123501502-fbddc700-d677-11eb-99b9-91de84965bf4.png)
