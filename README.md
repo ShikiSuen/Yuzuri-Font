@@ -50,4 +50,5 @@ The two notices above are describing differently than what Shimaoka did in his b
 | () [] {} 	| 括弧   // Brackets             	|
 
 
-![image](https://user-images.githubusercontent.com/3164826/123501502-fbddc700-d677-11eb-99b9-91de84965bf4.png)
+![image](https://user-images.githubusercontent.com/3164826/123515849-cbc01380-d6cb-11eb-8f66-0a77a648b341.png)
+
