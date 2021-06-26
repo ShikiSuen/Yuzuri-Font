@@ -26,18 +26,18 @@ The two notices above are describing differently than what Shimaoka did in his b
 
 | 入力文字 Input Character 	| 対応和声記号 Corresponded chord symbol                                                          	|
 |----------	|------------------------------------------------------------------------------------	|
-| ZXCVBNM | 音階とその音を示す記号 (Indicating Scales and Tones) |
+| ZXCVBNM | 音階とその音を示す記号 (Indicating Scales and Tones) //
 | Q        	| I                                                                                  	|
 | W        	| II                                                                                 	|
 | E        	| III                                                                                	|
 | R        	| IV                                                                                 	|
 | T        	| V                                                                                  	|
 | Y        	| VI                                                                                 	|
-| U        	| VII  (実に稀です。島岡系芸大和声では減和声と導７和声はすべて属和音の根音省略形と呼ばれる。｜Extremely rarely used. All diminished chords are described as rootless dominants in Shimaoka Harmoniology.)           	|
-| F        	| 付加4 / Add 4th                                                                	|
-| S        	| 付加6 / Add 6th                                                                   	|
+| U        	| VII  (実に稀です。島岡系芸大和声では減和声と導７和声はすべて属和音の根音省略形と呼ばれる。// Extremely rarely used. All diminished chords are described as rootless dominants in Shimaoka Harmoniology.)           	|
+| F        	| 付加4 // Add 4th                                                                	|
+| S        	| 付加6 // Add 6th                                                                   	|
 | f        	| 第5音の下変（ローマ数字の直後に置くこと） // ♭5 (typed right after the Roman Numeral)                  	|
-| s        	| 第5音の上変（ローマ数字の直後に置くこと）// ♯5 for Dominants, #6 for subdominants                	|
+| s        	| 第5音の上変（ローマ数字の直後に置くこと）// ♯5 for Dominants, ♯6 for subdominants                	|
 | m        	| 同主短調から借用した準固有和音 // The diatonic chord of the same degree borrowed from syntonic minor.        	|
 | +        	| 同主長調から借用した準固有和音ですが、準固有和音よりプラス和音とはよく呼ばれるはず // The diatonic chord of the same degree borrowed from syntonic major. 	|
 | r        	| 根音省略形あるいは第５音省略形（ローマ数字の直前に入力すること） // Rootless Dominant or 5thless Subdominant (typed right before the Roman Numeral)    	|
