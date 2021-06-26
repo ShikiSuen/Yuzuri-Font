@@ -47,4 +47,5 @@ The two notices above are describing differently than what Shimaoka did in his b
 | @        	| 副次調指定記号 // Tonicization target indicator   	|
 | /        	| 保続低音指定記号 // Sustained bass note indicator       	|
 | () [] {} 	| 括弧   // Brackets             	|
+
 ![image](https://user-images.githubusercontent.com/3164826/123501502-fbddc700-d677-11eb-99b9-91de84965bf4.png)
