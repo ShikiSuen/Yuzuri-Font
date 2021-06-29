@@ -40,7 +40,8 @@ The two notices above are describing differently than what Shimaoka did in his b
 | f        	| 第5音の下変（ローマ数字の直後に置くこと） // ♭5 (typed right after the Roman Numeral)                  	|
 | s        	| 第5音の上変（ローマ数字の直後に置くこと）// ♯5 for Dominants, ♯6 for subdominants                	|
 | m        	| 同主短調から借用した準固有和音 // The diatonic chord of the same degree borrowed from omnitonic minor.        	|
-| +        	| 同主長調から借用した準固有和音ですが、準固有和音よりプラス和音とはよく呼ばれるはず // The diatonic chord of the same degree borrowed from omnitonic major. 	|
+| +        	| 長和音と強調する記号 // Enforce a major chord. 	|
+| -        	| 短和音と強調する記号 // Enforce a minor chord. 	|
 | r        	| 根音省略形あるいは第５音省略形（ローマ数字の直前に入力すること） // Rootless Dominant or 5thless Subdominant (typed right before the Roman Numeral)    	|
 | p        	| ナポリのII度  // Neopolitan II                                                                     	|
 | 1 2 3 4 \` | 第？転回形  // Which inversion                                                    	|
