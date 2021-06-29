@@ -50,6 +50,4 @@ The two notices above are describing differently than what Shimaoka did in his b
 | /        	| 保続低音指定記号 // Sustained bass note indicator       	|
 | () [] {} 	| 括弧   // Brackets             	|
 
-
-![image](https://user-images.githubusercontent.com/3164826/123515849-cbc01380-d6cb-11eb-8f66-0a77a648b341.png)
-
+![image](https://user-images.githubusercontent.com/3164826/123732411-74d55c80-d8cc-11eb-8cc5-5eac260a2e0f.png)
