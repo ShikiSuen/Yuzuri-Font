@@ -33,7 +33,7 @@ xHeight = 450;
 glyphs = (
 {
 glyphname = B;
-lastChange = "2021-06-27 08:31:49 +0000";
+lastChange = "2021-06-29 02:43:36 +0000";
 layers = (
 {
 hints = (
@@ -75,7 +75,7 @@ unicode = 0042;
 },
 {
 glyphname = C;
-lastChange = "2021-06-27 08:31:40 +0000";
+lastChange = "2021-06-29 02:43:26 +0000";
 layers = (
 {
 hints = (
@@ -140,7 +140,7 @@ unicode = 0043;
 },
 {
 glyphname = E;
-lastChange = "2021-06-27 08:29:03 +0000";
+lastChange = "2021-06-29 02:40:32 +0000";
 layers = (
 {
 hints = (
@@ -317,7 +317,7 @@ unicode = 0046;
 },
 {
 glyphname = M;
-lastChange = "2021-06-27 08:29:44 +0000";
+lastChange = "2021-06-29 02:43:46 +0000";
 layers = (
 {
 hints = (
@@ -380,7 +380,7 @@ unicode = 004D;
 },
 {
 glyphname = N;
-lastChange = "2021-06-27 08:29:40 +0000";
+lastChange = "2021-06-29 02:44:00 +0000";
 layers = (
 {
 hints = (
@@ -425,7 +425,7 @@ unicode = 004E;
 },
 {
 glyphname = O;
-lastChange = "2021-06-27 08:32:06 +0000";
+lastChange = "2021-06-29 02:41:22 +0000";
 layers = (
 {
 layerId = "BFEE9DAF-128A-4837-A794-4F7CE36BEEBE";
@@ -456,7 +456,7 @@ unicode = 004F;
 },
 {
 glyphname = Q;
-lastChange = "2021-06-27 10:25:53 +0000";
+lastChange = "2021-06-29 02:40:06 +0000";
 layers = (
 {
 hints = (
@@ -503,7 +503,7 @@ unicode = 0051;
 },
 {
 glyphname = R;
-lastChange = "2021-06-27 10:55:06 +0000";
+lastChange = "2021-06-29 02:40:54 +0000";
 layers = (
 {
 hints = (
@@ -682,7 +682,7 @@ unicode = 0053;
 },
 {
 glyphname = T;
-lastChange = "2021-06-27 10:55:01 +0000";
+lastChange = "2021-06-29 02:41:01 +0000";
 layers = (
 {
 hints = (
@@ -732,7 +732,7 @@ unicode = 0054;
 },
 {
 glyphname = U;
-lastChange = "2021-06-27 08:29:43 +0000";
+lastChange = "2021-06-29 02:41:13 +0000";
 layers = (
 {
 hints = (
@@ -807,7 +807,7 @@ unicode = 0055;
 },
 {
 glyphname = V;
-lastChange = "2021-06-27 08:31:34 +0000";
+lastChange = "2021-06-29 02:43:31 +0000";
 layers = (
 {
 hints = (
@@ -857,7 +857,7 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2021-06-27 10:52:53 +0000";
+lastChange = "2021-06-29 02:40:21 +0000";
 layers = (
 {
 hints = (
@@ -917,7 +917,7 @@ unicode = 0057;
 },
 {
 glyphname = X;
-lastChange = "2021-06-27 08:28:59 +0000";
+lastChange = "2021-06-29 02:43:21 +0000";
 layers = (
 {
 hints = (
@@ -969,7 +969,7 @@ unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2021-06-27 10:53:39 +0000";
+lastChange = "2021-06-29 02:41:09 +0000";
 layers = (
 {
 hints = (
@@ -1026,7 +1026,7 @@ unicode = 0059;
 },
 {
 glyphname = Z;
-lastChange = "2021-06-27 10:26:29 +0000";
+lastChange = "2021-06-29 02:43:12 +0000";
 layers = (
 {
 hints = (
@@ -1101,7 +1101,7 @@ unicode = 0066;
 },
 {
 glyphname = m;
-lastChange = "2021-06-27 10:50:10 +0000";
+lastChange = "2021-06-29 02:56:47 +0000";
 layers = (
 {
 hints = (
@@ -1169,7 +1169,7 @@ unicode = 006D;
 },
 {
 glyphname = p;
-lastChange = "2021-06-27 10:52:56 +0000";
+lastChange = "2021-06-29 03:11:29 +0000";
 layers = (
 {
 hints = (
@@ -1195,7 +1195,7 @@ nodes = (
 );
 }
 );
-width = 799;
+width = 800;
 }
 );
 note = p;
@@ -1203,7 +1203,7 @@ unicode = 0070;
 },
 {
 glyphname = r;
-lastChange = "2021-06-27 10:54:56 +0000";
+lastChange = "2021-06-29 02:40:39 +0000";
 layers = (
 {
 hints = (
@@ -2065,6 +2065,40 @@ note = bracketright;
 unicode = 005D;
 },
 {
+glyphname = hyphen;
+lastChange = "2021-06-29 02:56:49 +0000";
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = "{278, 45}";
+type = Stem;
+},
+{
+place = "{226, 47}";
+type = Stem;
+}
+);
+layerId = "BFEE9DAF-128A-4837-A794-4F7CE36BEEBE";
+paths = (
+{
+closed = 1;
+nodes = (
+"4 323 LINE",
+"4 278 LINE",
+"296 278 LINE",
+"296 323 LINE"
+);
+}
+);
+width = 300;
+}
+);
+note = plus;
+unicode = 002D;
+},
+{
 glyphname = .notdef;
 layers = (
 {
@@ -2224,7 +2258,7 @@ unicode = 0040;
 },
 {
 glyphname = plus;
-lastChange = "2021-06-27 08:02:28 +0000";
+lastChange = "2021-06-29 02:56:42 +0000";
 layers = (
 {
 hints = (
@@ -2648,6 +2682,25 @@ braceright = -100;
 bracketright = -100;
 parenright = -100;
 };
+hyphen = {
+B = -100;
+C = -70;
+E = -70;
+M = -30;
+N = -70;
+O = -50;
+Q = -250;
+R = -75;
+T = -75;
+U = -30;
+V = -50;
+W = -150;
+X = -150;
+Y = -70;
+Z = -250;
+p = -150;
+r = -75;
+};
 m = {
 B = -112;
 C = -70;
@@ -2665,7 +2718,6 @@ X = -170;
 Y = -140;
 Z = -280;
 p = -220;
-plus = 0;
 r = -112;
 };
 nine = {
@@ -2729,7 +2781,6 @@ W = -150;
 X = -150;
 Y = -70;
 Z = -250;
-m = 0;
 p = -150;
 r = -75;
 };
@@ -2786,8 +2837,11 @@ Y = -70;
 Z = -290;
 braceleft = -150;
 bracketleft = -150;
+hyphen = -100;
+m = -100;
 p = -150;
 parenleft = -150;
+plus = -100;
 r = -60;
 };
 three = {
@@ -2808,5 +2862,5 @@ manufacturer = "Atelier Inmu";
 manufacturerURL = "https://soundcloud.com/shikisuen";
 unitsPerEm = 750;
 versionMajor = 1;
-versionMinor = 6;
+versionMinor = 7;
 }
