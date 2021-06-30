@@ -1,12 +1,12 @@
 # Yuzuri-Font
 
-A typeface which allows easy typography of Shimaoka Roman Numerals used among conservatories in Japan.
+A typeface which allows easy typography of Shimaoka Roman Numerals used among conservatories in Japan. Especially useful for remote harmoniology lessons during the pandemic.
 
-> 「ゆずり」という島岡系芸大和声記号専用フォントです。
+> 「ゆずり」という島岡系芸大和声記号専用フォントです。**このフォントのおかげで、古典和声の遠隔通信授業の時に Dorico / MuseScore / Sibelius / Finale / LilyPond などの採譜ソフトの画面共有だけで講義できます。**// 手書きしてビデオ撮りながらの通信授業は大変すぎて面倒ですね。
 
 The name of the font "Yuzuri" (pronounces “Yuzuli” in English) is a derivative feminine name from Yuzuru Shimaoka's first name. (Yuzuru sounds male, Yuzuri sounds female.)
 
-> このフォントの名前「ゆずり」は、島岡譲氏の下の名前「ゆずる」を女性化してからの名前です。
+> このフォントの名前「ゆずり」は、島岡譲氏の下の名前「ゆずる」を女性化してからの名前です。「柚莉」は中国語での名前です。
 
 Notice:
 
